@@ -1,4 +1,0 @@
-I love you! - from dev1 conflict
-I love you! - dev1 conflict
-It's true!)
-This is branch DEV1
